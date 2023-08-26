@@ -1,5 +1,7 @@
 # Flipkart Scraper and SQL Database Integration
 
+![Project Flow](https://github.com/Gaurav0807/Web_Scraping/blob/main/src/Img/ecommerce.png)
+
 This project demonstrates how to scrape laptop data from Flipkart's website and store it in a MySQL database.
 
 ## Prerequisites
