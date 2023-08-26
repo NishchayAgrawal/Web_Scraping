@@ -45,14 +45,4 @@ class FlipkartScraper:
         })
         #data.to_csv(filename, index=False)
         return data
-
-if __name__ == "__main__":
-    scraper = FlipkartScraper()
-    scraper.fetch_data(page_range=range(2, 10))
-    #scraper.create_csv("data.csv")
-    data = scraper.create_csv()
-    sql = SQLDatabase()
-    sql.create_connection()
-    sql.create_table()
-    sql.insert_data("laptop_data",data)
-
+    
