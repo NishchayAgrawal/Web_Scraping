@@ -1,6 +1,7 @@
 # Flipkart Scraper and SQL Database Integration
 
-![Project Flow](https://github.com/Gaurav0807/Web_Scraping/blob/main/src/Img/ecommerce.png)
+
+![Architecture](https://github.com/Gaurav0807/Web_Scraping/assets/54076460/8e4e5dba-28b8-4a7e-8565-fe3dc32dfccc)
 
 This project demonstrates how to scrape laptop data from Flipkart's website and store it in a MySQL database.
 
@@ -35,5 +36,7 @@ This project demonstrates how to scrape laptop data from Flipkart's website and 
 
 ## Output
 
-![Web Scrap Data](https://github.com/Gaurav0807/Web_Scraping/blob/main/src/Img/Image.png)
+
+![output](https://github.com/Gaurav0807/Web_Scraping/assets/54076460/3b418de9-5e71-4381-8a97-a6a5f275768c)
+
    
